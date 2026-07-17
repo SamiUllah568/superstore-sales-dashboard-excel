@@ -52,7 +52,7 @@ Sample Superstore Dataset (Kaggle)
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/SamiUllah568/superstore-sales-dashboard-excel/blob/main/Superstore%20Sales%20Dashboard.png)
 
 ---
 
